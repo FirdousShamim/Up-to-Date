@@ -9,7 +9,7 @@
 
 ## Up-to-Date
  
- Up-to-Date is an web based application, which can be used keep tracks of the tasks and projects among a group. It helps the user to keep track for their and teams progress and the task assigned to them.
+ Up-to-Date is an web based application, which can be used keep tracks of the tasks and projects among a group. It helps the user to keep track of their and their teammates progress and the task assigned to them.
  
 ## About Laravel
 
